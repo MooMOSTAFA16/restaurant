@@ -24,7 +24,7 @@ class OrderDetails {
     );
   }
 
-  get id => null;
+  Null get id => null;
 
   Map<String, dynamic> toJson() {
     return {

@@ -4,25 +4,13 @@ import 'package:restaurant/orders/view/order_cancel_reason_page.dart';
 import 'package:restaurant/orders/view/order_canceld_succes_page.dart';
 import 'package:restaurant/orders/view/order_cancelled_page.dart';
 import 'package:restaurant/orders/view/order_complited_page.dart';
+import 'package:restaurant/orders/view/order_home_page.dart';             
 
 // Splash
 import 'package:restaurant/splash/splash_screen.dart';
 
 // Orders (Control)
-import 'package:restaurant/orders/control/order_controller.dart';
 
-// Orders (Data)
-import 'package:restaurant/orders/data/order_details.dart';
-import 'package:restaurant/orders/data/order_model.dart';
-//import 'package:restaurant/orders/data/order_reposity.dart';
-import 'package:restaurant/orders/data/order_service.dart';
-
-// Orders (View)
-//import 'package:restaurant/orders/view/order_details_page.dart';
-import 'package:restaurant/orders/view/order_home_page.dart';
-import 'package:restaurant/orders/view/order_widget.dart';
-// import 'package:restaurant/orders/view/order_completed_page.dart';
-// import 'package:restaurant/orders/view/order_cancelled_success_page.dart';
 
 void main() {
   runApp(const MyApp());

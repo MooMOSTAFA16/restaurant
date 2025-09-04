@@ -1,7 +1,6 @@
 import 'package:restaurant/orders/data/order_repositry.dart';
 
 import '../data/order_model.dart';
-import '../data/order_repositry.dart';
 import '../data/order_service.dart';
 
 class OrderController {

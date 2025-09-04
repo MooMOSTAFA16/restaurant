@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:restaurant/cart/control/cart_controller.dart';
 //import '../controllers/cart_controller.dart';
-import '../data/cart_item.dart';
+//import '../data/cart_item.dart';
 
 class CartPage extends StatefulWidget {
   const CartPage({super.key});
